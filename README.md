@@ -21,11 +21,6 @@ You need to know:
 - Able to add a click listener to a Button.
 
 
-Getting Started
----------------
-
-1. Download and run the app.
-
 License
 -------
 
