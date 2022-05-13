@@ -42,7 +42,9 @@ class GameViewModel : ViewModel() {
     fun nextWord(): Boolean {
         return if (_currentWordCount.value!! < MAX_NO_OF_WORDS) {
             getNextWord()
-            true
+//vernut' true            true
+            false
+
         } else false
 
     }
